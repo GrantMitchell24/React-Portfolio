@@ -1,0 +1,13 @@
+.contactList {
+flex-direction: column;
+}
+
+.contactList li {
+margin: 10px;
+}
+
+.contactPage {
+  min-height: 40vh;
+  display: flex;
+  flex-direction: column;
+}

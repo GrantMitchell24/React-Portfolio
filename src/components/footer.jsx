@@ -1,7 +1,8 @@
 import ReactDOM from 'react-dom'
+import "./footer.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
-// import { faGithub } from '@fortawesome/free-solid-svg-icons'
+import { faGithub } from '@fortawesome/free-brands-svg-icons'
 // import { faGithub } from '@fortawesome/free-solid-svg-icons'
 function Footer() {
   return (
@@ -16,7 +17,7 @@ function Footer() {
       </li>
       <li> 
         <a href="https://github.com/grantmitchell24">
-          {/* <FontAwesomeIcon icon={faGithub} /> */}
+          <FontAwesomeIcon icon={faGithub} />
         </a>
       </li>
     </ul>

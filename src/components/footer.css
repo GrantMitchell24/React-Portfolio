@@ -1,0 +1,32 @@
+footer {
+  width: 100%;
+  display: flex;
+  text-align:end;
+  color: black;
+  margin-top: auto;
+  border-top: solid 1px black;
+}
+footer li {
+  color: black;
+}
+
+footer h2 {
+  text-align: center;
+}
+ul{
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  width: 70%;
+  margin-bottom: 0 !important;
+  background-color: lightblue;
+}
+li{
+  margin: 10px;
+/* margin-bottom: 50px; */
+margin-top: 115px;
+margin-right: 60px;
+font-size: large;
+ 
+}
