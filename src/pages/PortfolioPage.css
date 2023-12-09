@@ -1,7 +1,7 @@
 .card {
   border: 3px solid var(--dkcolor1);
   margin: 1%;
-  width: 33%;
+  /* width: 33%; */
   overflow: hidden;
   position: relative;
   background-color:black;

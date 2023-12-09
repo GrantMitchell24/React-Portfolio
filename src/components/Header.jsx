@@ -1,6 +1,6 @@
 import {Link} from "react-router-dom"
 import "./Header.css"
-import headshot from "./src/components/GrantHeadshot.jpeg"
+import headshot from "./GrantHeadshot.png"
 function Header(){
   return(
     
