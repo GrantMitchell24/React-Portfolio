@@ -1,0 +1,49 @@
+.card {
+  border: 3px solid var(--dkcolor1);
+  margin: 1%;
+  width: 33%;
+  overflow: hidden;
+  position: relative;
+  background-color:black;
+ }
+ 
+ .card img {
+   height: 100%;
+   width: 100%;
+   object-fit: cover;
+   opacity: 0.5;
+   transform: scale(1.2);
+ }
+
+h2 {
+  justify-content: center;
+  text-align: center;
+}
+
+.card img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  opacity: 0.5;
+  transform: scale(1.2);
+}
+
+.card img:hover {
+  opacity: 1;
+  transform: scale (1.00);
+  transition: 0.6s;
+}
+
+.card-text{
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+}
+
+.card-text h3,
+.card-text p {
+  text-align: left;
+}
+section {
+  margin: auto;
+}
