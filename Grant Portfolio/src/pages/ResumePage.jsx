@@ -21,30 +21,68 @@ function Resume() {
         PROJECTS
         SOFTWARE ENGINEERING BOOTCAMP
         University of Minnesota - Twin Cities
-        PET-SPACE| https://nestibry.github.io/pet-space/
+        NFL Salary High/Low Game| https://bpavlis.github.io/group-project-1/
         FRONTEND DEVELOPER
-        •	Created website front-end using HTML/CSS, integrated API with JavaScript to fetch pet adoption data in Minnesota. Enabled users to find available pets by utilizing API tokens for data extraction.
-        FLASHCARD DATABASE FOR STUDENTS |
-        FULL STACK DEVELOPER
-        •	Engineered interactive educational platform using HTML, CSS, and Handlebars integrated with Express, MySQL backend. Enabled users to practice custom flashcards for personalized studying.
-        WEATHER FORECASTING| https://shahanameen.github.io/Weather-API/
+        •	Created website front-end using HTML/CSS, integrated API with JavaScript to fetch NFL salaries to create a fun interactive game. 
+        WEATHER FORECASTING| https://grantmitchell24.github.io/weather-planner/ 
         FULL STACK DEVELOPER
         •	Developed webpage using HTML, CSS, and JavaScript to fetch and display real-time global weather forecasts from an API. Enabled users to access temperature, city names, wind speeds, and humidity for any location.
 
         EXPERIENCE
-        HILTON MAYO CLINIC AREA 			                                                                Rochester, MN
-        LEADERSHIP IN DEVELOPMENT				                 April 2023 - September 2023
-        •	Experienced in OnQ software property management, Microsoft, and Google programs such as PowerPoint, word document, and Excel.
-        •	Proficiently managed phone and email reservations using reservation management software.
+Client Services Specialist				                 Employment: October 2021 – July 2023
+SHL (www.shl.com) (Minneapolis, MN)
 
-        AMEEN RESTAURANTS INC                                                                                             Woodbury, MN
-        TEAM LEAD MANAGER                                                                                August 2022 - April 2023
-        •	Maintain and update the POS system, troubleshooting technical issues promptly to guarantee uninterrupted service.
-        •	Plan, organize, and manage reservations, inventory, and digital marketing.
-        •	Performed scheduling, audited payroll, kept track of inventory, and budgeted expenses.
+-Worked with SaaS Account Managers to manage portfolios, provide sales support and research to not only meet but exceed client goals
+-Performed client platform trainings, scheduled onboardings, QBR deck prep, renewals
+-Responsible for strict SLA daily/weekly/monthly reports for several Fortune 500 companies
+-Assisted fellow employees with technical/reporting issues
+-Worked cross functionally with several departments within company and acted as expert for client subscription tracking/use
+
+Technical Account Manager 				                  Employment: May 2020 – January 2021
+SPS Commerce, Inc. (www.spscommerce.com) (Minneapolis, MN)
+
+-Assisted vendor communities with upcoming technical changes which included sending communications to hundreds of vendors while also providing training calls to assist over the phone
+-Helped troubleshoot errors that vendor communities would be having with our services
+-Provided reports to retailers to give snapshot of how their vendor community is performing with our documents and services
+-Organized and led several meetings with executive management to understand how we can better assist them and their vendor communities
+
+Operations Specialist/Customer Success Manager             Employment: October 2018-May 2020
+SPS Commerce, Inc. (www.spscommerce.com) (Minneapolis, MN)
+
+-Worked directly with Costco for successful onboarding of up to hundreds of vendors a month
+-Several on-site meetings with Costco executive team to discuss business values, future goals
+-Led several major projects with Costco including; ASN Proof of Concept, major process changes, major        billing changes, software updates
+-Worked directly with SPS Testing and Implementation teams to ensure onboarding process with hundreds of vendors each month is going smoothly
+-Ran several reports including; onboarding, testing vendors, complete invoice audits
+-Maintained strict 2 hour SLA of onboarding new Costco vendors
+
+
+Associate Program Manager				                          Employment: April 2018- October 2018
+SPS Commerce, Inc. (www.spscommerce.com) (Minneapolis, MN)
+
+-Worked with our key retail partners to ensure successful vendor onboarding
+-Worked with various teams within the company to influence execution and vendor management
+-Created reports on a weekly basis for several retailers
+-Analyzed those reports to determine best action for retailer to take to ensure onboarding success
+-Worked as point of escalation for other employees and retailers 
+
+
+Billing Analyst						                                Employment: October 2016-April 2018
+SPS Commerce, Inc. (www.spscommerce.com)(Minneapolis, MN)
+			
+-Handle customer/employee escalation cases
+-Review and correct customer contracts/agreements 
+-Create contracts from opportunities
+-Assign/monitor billing email queue
+-Control Costco billing
+-Serve as escalation contact for internal employees
+
+
 
         SKILLS
-        JavaScript ES6+, CSS3, HTML5, SQL, NoSQL, GitHub, MongoDB, MySQL, Express, React, Node, Handlebars, jQuery, Bootstrap.
+        6 years of Customer Success/Account Management experience working with Fortune 500 companies. Excellent Microsoft Office Applications, Management, Customer Service, and leadership skills. Worked on various projects with strict SLA's to completion for ultimate success for clients. Easy to work with personality and looking for a company that rewards hard work and dedication.
+        
+        Coding: JavaScript ES6+, CSS3, HTML5, SQL, NoSQL, GitHub, MongoDB, MySQL, Express, React, Node, Handlebars, jQuery, Bootstrap.
 
 
       </p>
